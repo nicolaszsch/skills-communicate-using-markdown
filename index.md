@@ -24,6 +24,9 @@
 
 ![Maths](https://octodex.github.com/images/collabocats.jpg)
 
+- [x] Use GitHub
+- [ ] Make a Portafolio
+
 ``` javascript
 var myVar = "This is the begin ..."
 ```
