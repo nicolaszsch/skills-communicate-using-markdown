@@ -1,13 +1,25 @@
-# New Headers
+# I
 
-### First Head
+### Interests
 
-##### Feature 1
+##### Music
 
-##### Feature 2
+![Music](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
-### Second Head
+##### Sports
 
-##### Feature 3
+![Sports](https://octodex.github.com/images/goretocat.png)
 
-##### Feature 4
+##### Books
+
+![Books](https://octodex.github.com/images/mona-lovelace.jpg)
+
+### Work Interests
+
+##### Data
+
+![Data](https://octodex.github.com/images/manufacturetocat.png)
+
+##### Maths
+
+![Maths](https://octodex.github.com/images/collabocats.jpg)
