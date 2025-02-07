@@ -23,3 +23,7 @@
 ##### Maths
 
 ![Maths](https://octodex.github.com/images/collabocats.jpg)
+
+``` javascript
+var myVar = "This is the begin ..."
+```
